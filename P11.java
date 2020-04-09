@@ -9,6 +9,6 @@ public class P11
         int a = sc.nextInt();
         int b = sc.nextInt();
         int s = a+b;
-        System.out.println("Sum of two numbers:"+s);
+        System.out.println("Sum of two numbers:"+s) ;
     }}
         
